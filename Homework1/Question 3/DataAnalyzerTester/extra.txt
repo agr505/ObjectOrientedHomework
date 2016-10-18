@@ -1,1 +1,0 @@
-Maximum=56 Minimum= 3 Average =14.8

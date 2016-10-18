@@ -1,4 +1,0 @@
-6
-3
-8
-Maximum=8 Minimum= 3 Average =5.666666666666667
