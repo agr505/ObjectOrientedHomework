@@ -1,0 +1,16 @@
+Aaron Reich
+
+COP 4331
+
+9/28/16
+
+Question 1
+
+
+
+a. Encapsulation is important for OODP because it allows for the user of the class to not have to know about the internal workings of the class. All the class user needs to do is do the implementation of the class. Accessors can also be included for properties to be used but not allowing assignment. 
+
+b.  It is OK to throw exceptions as part of the contract when the exception is not violation of the precondition or if the method has no precondition. An exception as part of the contract can be utilized in the scenario of trying to remove a node from a stack or queue.  A NoSuchElementException can be thrown in this scenario.
+
+c. Side Effects should be avoided because they confuse the user of the class. If the class is immutable then neither the implicit parameter, explicit parameter, nor a static object should be altered. If the class is mutable than the mutator for the class should only alter the implicit parameter and nothing else. By avoiding Side Effects, it makes understanding the effects of methods on objects less confusing and more straightforward.
+
